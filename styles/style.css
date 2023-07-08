@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    background-color: gray;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+.list{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    font-size: 15px;
+    font-style: italic;
+}
